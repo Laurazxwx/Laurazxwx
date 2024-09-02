@@ -1,16 +1,19 @@
-## Hi there 👋
+### Boas vindas ao meu perfil 💞
 
-<!--
-**Laurazxwx/Laurazxwx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou Laura 🌸
+Estou estudando na plataforma [Alura]( https://cursos.alura.com.br ).
+Estou me desenvolvendo na linguagem JavaScript
+Ultilizo esse espaço para a minha organização e compartilhamento dos meus projetos desenvolvidos !!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+### Você pode entrar em contato 📫
+
+00001109592851sp@al.educacao.sp.gov.br
+
+
+
+
+[](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMU5Zf3aZ5dmMHBTNxhsQNsQd88rFZQfF6kg&s)
