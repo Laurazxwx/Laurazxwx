@@ -16,4 +16,4 @@ Ultilizo esse espaço para a minha organização e compartilhamento dos meus pro
 
 
 
-[](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMU5Zf3aZ5dmMHBTNxhsQNsQd88rFZQfF6kg&s)
+[](https://i1.sndcdn.com/artworks-VwTUaJNHGk0bJMo8-mZbVTw-t500x500.jpg)
